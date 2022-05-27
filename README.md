@@ -1,5 +1,5 @@
 ## About
-This is a [Next.js](https://nextjs.org/), [TypeScript](https://github.com/microsoft/TypeScript), [Tailwind CSS](https://tailwindcss.com/), and [Daisy UI](https://daisyui.com/) starter template. <br />I could not find one that was minimal & clean, so I made one.
+This is a [Next.js](https://nextjs.org/) start template that includes [TypeScript](https://github.com/microsoft/TypeScript), [Tailwind CSS](https://tailwindcss.com/), and [Daisy UI](https://daisyui.com/). <br />I could not find one that was minimal & clean, so I made one.
 <br />
 ## Installed + Setup
 
